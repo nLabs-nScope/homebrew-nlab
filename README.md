@@ -6,5 +6,5 @@ Homebrew tap for the nLab macOS application.
 
 ```bash
 brew tap nLabs-nScope/nlab
-brew install nlab
+brew install --cask nlab
 ```

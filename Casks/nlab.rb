@@ -1,7 +1,7 @@
 cask "nlab" do
-  version "2.0.1"
-  sha256 arm:   "bf76b2b49bfd6bf5328d0cb3d7dd55b1d2b9fedd7f593f9bb8d4dc82236cdbac",
-         intel: "bf76b2b49bfd6bf5328d0cb3d7dd55b1d2b9fedd7f593f9bb8d4dc82236cdbac"
+  version "2.1.0"
+  sha256 arm:   "c730497df7027112b047abe0895e8ae6c7b046be3054065d4dbd11f92099bf40",
+         intel: "c730497df7027112b047abe0895e8ae6c7b046be3054065d4dbd11f92099bf40"
 
   on_arm do
     url "https://github.com/nLabs-nScope/nLab/releases/download/v#{version}/nLab-darwin-arm64-#{version}.zip",
